@@ -6,7 +6,7 @@
 - Explore DNS Response Traffic
 
 ## Scenario:
-- I used Wireshark to filter for DNS packets and view the details of both DNS query and response packets.
+- Wireshark was used to filter for DNS packets and view the details of both DNS query and response packets.
 
 ## Required Resources:
 - A PC with Internet access.
